@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-54aqo3.pulaucuansite.xyz/sitemap.xml
